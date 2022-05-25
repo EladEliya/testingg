@@ -5,6 +5,11 @@ let arr = [25,23,40,800,956,200,1022,32,48];
 // }
 console.log(Math.max()); 
 
+
+
+
+
+
 let max = arr[0];
 
 console.log(arr);
