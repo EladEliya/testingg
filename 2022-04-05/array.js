@@ -10,6 +10,12 @@ console.log(Math.max());
 
 
 
+
+
+
+
+
+
 let max = arr[0];
 
 console.log(arr);
